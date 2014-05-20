@@ -1,0 +1,29 @@
+1) Who is user and who is admin?
+Ans :Admin will be the owner of the gym, Mr Gyanesh Patharwat. And thhe users will be the members and the employees of the gym, only the employees who knows the passwords of admin, and the admin have granted the authority to will be able to access the admin panel.
+ 
+2) Insert all screenshots of the forms so I can able to understand the whole day work.
+
+3) Did you collect the data of diet Consultancy?
+Ans : the data of diet consultancy is yet to be taken, probably by monday i'll have the data.
+
+4) Employee Panel: How many employees needed? Explain roll of every employee.
+the whole employee structure will also be available with diet consultancy plan.
+
+5) Which facilities required for the admin?
+Ans : admin requires following facilities :
+	a). must be able to see the bio, of each member and employee.
+	b). must be able to cancel, or alter members and employees data.
+	c). must get the timely updates of the gym, including the names and UID of members whose fees is either 	pending or their grace period is over(gym gives 7 days grace period to every member to pay the fees after 	the date is passed)
+
+6) Why need welcome screen two times and separate for user?
+Ans : just thought to provide admin a bit of privacy and extra privileges, and seperate it from user. i dont want any user to get anywhere close to the admin panel.coz the authorities given to admin may be misused by the user and members.
+ 
+7) Which supplements are provided?
+Ans: various types of supplement are provided, weight gain weight loss, etc.
+
+8) If you have made a Database then you must have made the module structure where is module structure?
+i just tried to make the DB, not sure if its correct or not, need your guidance for the DB.
+
+Note : needs the format in which i need to gather the data from th GYM owner, and also i need 
+We assume that we got every data required before Due Time ankur.
+Status: Open
